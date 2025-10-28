@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 A comprehensive Power BI dashboard analyzing global 5G/4G network performance across carriers, devices, and locations. This interactive dashboard provides insights into network quality, speed metrics, and carrier performance comparisons.
 
-## 🚀 Live Dashboard
+## 🚀 Power BI Dashboard
 
 ![DashBoard Overview](/screenshots/Dashboard%20Overview.png)
 ![DashBoard Overview](/screenshots/Carrier.png)
